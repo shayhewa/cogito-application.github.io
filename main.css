@@ -1,0 +1,14 @@
+h1  {
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    color: red;
+}
+
+ h2, h3, h4  {
+    font-family: 'Asap', sans-serif;
+    color: lightgreen;
+}
+
+p, a, li, ul  {
+    font-family: 'Anton', sans-serif;
+}
